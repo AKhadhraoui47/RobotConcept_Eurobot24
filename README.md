@@ -2,7 +2,7 @@
 
 This document presents an on-point mechanical design for a robot that participated in EUROBOT 2024, adhering to all competition constraints and providing an easy-to-maintain solution.
 
-![Full Robot](images/Complete_Robot.png)
+![Full Robot](Images/Complete_Robot.png)
 
 ### Mechanical Design Overview
 
@@ -23,7 +23,7 @@ Built on a robust skeleton of profile bars, the structure offers both easy disas
 #### Independent Levels
 For convenience, the control system was organized on a separate, independent floor, simplifying installation and management.
 
-![See through Robot](images/See_Through.png)
+![See through Robot](Images/See_Through.png)
 
 ### The Main System 
 
@@ -31,7 +31,7 @@ The main system utilizes a screw-nut mechanism powered by a Nema 17 stepper moto
 
 
 
-![Main System Robot](images/Main_System.png)
+![Main System Robot](Images/Main_System.png)
 
 <p align="center">
   <p align="center">
