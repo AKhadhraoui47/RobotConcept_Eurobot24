@@ -1,6 +1,6 @@
 # RobotConcept_Eurobot24  
 
-This document presents an on-point mechanical design for a robot that participated in **EUROBOT2024**, adhering to all competition constraints and providing an easy-to-maintain solution.
+This document presents an on-point mechanical design for a robot that participated in **$\color{orange}{Eurobot2024}$**, adhering to all competition constraints and providing an easy-to-maintain solution.
 
 ![Full Robot](Images/Complete_Robot.png)
 
